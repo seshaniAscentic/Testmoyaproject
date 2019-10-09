@@ -1,0 +1,11 @@
+D:\Automation\testmoyaproject\Testmoyaproject\Testmoyaproject\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+D:\Automation\testmoyaproject\Testmoyaproject\Testmoyaproject\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+D:\Automation\testmoyaproject\Testmoyaproject\Testmoyaproject\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+D:\Automation\testmoyaproject\Testmoyaproject\Testmoyaproject\bin\Debug\netcoreapp2.2\Testmoyaproject.deps.json
+D:\Automation\testmoyaproject\Testmoyaproject\Testmoyaproject\bin\Debug\netcoreapp2.2\Testmoyaproject.runtimeconfig.json
+D:\Automation\testmoyaproject\Testmoyaproject\Testmoyaproject\bin\Debug\netcoreapp2.2\Testmoyaproject.runtimeconfig.dev.json
+D:\Automation\testmoyaproject\Testmoyaproject\Testmoyaproject\bin\Debug\netcoreapp2.2\Testmoyaproject.dll
+D:\Automation\testmoyaproject\Testmoyaproject\Testmoyaproject\obj\Debug\netcoreapp2.2\Testmoyaproject.csprojAssemblyReference.cache
+D:\Automation\testmoyaproject\Testmoyaproject\Testmoyaproject\obj\Debug\netcoreapp2.2\Testmoyaproject.csproj.CoreCompileInputs.cache
+D:\Automation\testmoyaproject\Testmoyaproject\Testmoyaproject\obj\Debug\netcoreapp2.2\Testmoyaproject.AssemblyInfoInputs.cache
+D:\Automation\testmoyaproject\Testmoyaproject\Testmoyaproject\obj\Debug\netcoreapp2.2\Testmoyaproject.AssemblyInfo.cs
